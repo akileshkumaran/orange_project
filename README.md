@@ -1,3 +1,5 @@
 # orange data mining 
-this project is about knn model \n
+this project is about knn model
+
+
 logistic regression
